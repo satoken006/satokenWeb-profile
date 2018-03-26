@@ -28,6 +28,7 @@
             <tr><td><img class="symbol" src="../img/profile/hometown.png"></td><td>埼玉県 深谷市</td></tr>
             <tr><td><img class="symbol" src="../img/profile/school.png"></td><td>明治大学 先端数理科学研究科 先端メディアサイエンス専攻 1年<br>中村聡史研究室</td></tr>
             <tr><td><img class="symbol" src="../img/profile/research.png"></td><td>ヒューマンコンピュータインタラクション，手書き文字，コミック工学</td></tr>
+            <tr><td><img class="symbol" src="../img/profile/interest.png">音楽鑑賞，アニメ鑑賞，電車に乗ること，ラーメン，ボルダリング</td></tr>
         </table>
     </div>
 </body>
